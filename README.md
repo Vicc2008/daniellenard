@@ -1,2 +1,2 @@
-# daniellenard
-The Amazing World of Gumball
+# Daniel Lennard
+The Amazing World of Gumball OS
